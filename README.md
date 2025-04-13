@@ -3,9 +3,14 @@ Taking course to try to learn about remote sensing and climate science in genera
 
 
 <embed type="text/html" src="img/ucb.html" width="600" height="600">
-## JUn23 24 Rebe  
+
+## Rebe
 * **Brad**
 * **April 13 2025**
+* 
+
+
+
 
 ### Three favorite foods
 * *ice cream*
